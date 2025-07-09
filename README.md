@@ -1,4 +1,4 @@
-<h1 align="center">🍕 Vo1dDev</h1>
+<h1 align="center">🍕 MoonLightDevv</h1>
 <p align="center">Maintainer of Hypixel Skyblock QoL mods — public, tested, and always free.</p>
 
 ---
@@ -38,19 +38,12 @@ All are built for **Forge 1.8.9**, optimized for Hypixel Skyblock.
 
 ## 📦 Projects/Repositories
 
-- [`Pizza-Client`](https://gitlab.com/vo1ddev/pizzaclient)  
-- [`Pizza-Client-Supporter`](https://gitlab.com/vo1ddev/pizzaclient-supporter)  
-- [`Oringo-Client`](https://gitlab.com/vo1ddev/OringoClient)  
-- [`Oringo-Client-Supporter`](https://gitlab.com/vo1ddev/oringoclient-supporter)  
-- [`Cheeto-Client`](https://gitlab.com/vo1ddev/cheeto-client)  
-- [`Funnymap-Extras`](https://gitlab.com/vo1ddev/funnymap-extras)
-
----
-
-## 📫 Contact
-
-Need help or want something patched?  
-Message me on Discord: **@vo1ddev**
+- [`Pizza-Client`](https://github.com/MoonLightDevv/pizzaclient)  
+- [`Pizza-Client-Supporter`](https://github.com/MoonLightDevv/pizzaclient-supporter)  
+- [`Oringo-Client`](https://github.com/MoonLightDevv/OringoClient)  
+- [`Oringo-Client-Supporter`](https://github.com/MoonLightDevv/oringoclient-supporter)  
+- [`Cheeto-Client`](https://github.com/MoonLightDevv/cheeto-client)  
+- [`Funnymap-Extras`](https://github.com/MoonLightDevv/funnymap-extras)
 
 ---
 
