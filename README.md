@@ -6,7 +6,7 @@
 ## 🛠️ What I Do
 
 I maintain and distribute Hypixel Skyblock Forge clients, including builds originally made for supporters.  
-All clients are cleaned, updated, and focused on useful automation, ESPs, dungeon tools, and QoL features.
+All clients are cleaned, updated, and focused on useful automation, ESPs, dungeon tools, and QoL features. 
 
 No locked menus. No launchers. No paywalls.
 
